@@ -1,0 +1,14 @@
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\DataAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\DataAC.AssemblyInfoInputs.cache
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\DataAC.AssemblyInfo.cs
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\DataAC.csproj.CoreCompileInputs.cache
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\DataAC.csproj.AssemblyReference.cache
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\bin\Debug\net8.0\DataAC.deps.json
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\bin\Debug\net8.0\DataAC.runtimeconfig.json
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\bin\Debug\net8.0\DataAC.dll
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\bin\Debug\net8.0\DataAC.pdb
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\DataAC.dll
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\refint\DataAC.dll
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\DataAC.pdb
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\DataAC.genruntimeconfig.cache
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\canciones\DataAC\obj\Debug\net8.0\ref\DataAC.dll

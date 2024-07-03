@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\controllers\\controladoscanciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\controllers\\controladoscanciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\migrations\\20240702180703_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\migrations\\20240702180703_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\repositorios\\cancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|solutionrelative:dataac\\repositorios\\cancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\entidad\\canciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|solutionrelative:dataac\\entidad\\canciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|solutionrelative:dataac\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\contexto\\canciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\contexto\\canciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\repositorios\\icancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|solutionrelative:dataac\\repositorios\\icancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "canciones\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "canciones\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:41:04.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240702180703_inicial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Migrations\\20240702180703_inicial.Designer.cs",
+              "RelativeDocumentMoniker": "canciones\\Migrations\\20240702180703_inicial.Designer.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Migrations\\20240702180703_inicial.Designer.cs",
+              "RelativeToolTip": "canciones\\Migrations\\20240702180703_inicial.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:39:57.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataAC\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Data\\DataContext.cs",
+              "RelativeToolTip": "DataAC\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:33:44.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICancionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Repositorios\\ICancionRepositorio.cs",
+              "RelativeDocumentMoniker": "DataAC\\Repositorios\\ICancionRepositorio.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Repositorios\\ICancionRepositorio.cs",
+              "RelativeToolTip": "DataAC\\Repositorios\\ICancionRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:25:10.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Canciones.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Entidad\\Canciones.cs",
+              "RelativeDocumentMoniker": "DataAC\\Entidad\\Canciones.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Entidad\\Canciones.cs",
+              "RelativeToolTip": "DataAC\\Entidad\\Canciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:24:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CancionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Repositorios\\CancionRepositorio.cs",
+              "RelativeDocumentMoniker": "DataAC\\Repositorios\\CancionRepositorio.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Repositorios\\CancionRepositorio.cs",
+              "RelativeToolTip": "DataAC\\Repositorios\\CancionRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:22:27.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Program.cs",
+              "RelativeDocumentMoniker": "canciones\\Program.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Program.cs",
+              "RelativeToolTip": "canciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:31:51.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Canciones.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Contexto\\Canciones.cs",
+              "RelativeDocumentMoniker": "canciones\\Contexto\\Canciones.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Contexto\\Canciones.cs",
+              "RelativeToolTip": "canciones\\Contexto\\Canciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:15:41.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControladosCanciones.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Controllers\\ControladosCanciones.cs",
+              "RelativeDocumentMoniker": "canciones\\Controllers\\ControladosCanciones.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Controllers\\ControladosCanciones.cs",
+              "RelativeToolTip": "canciones\\Controllers\\ControladosCanciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:14:28.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
