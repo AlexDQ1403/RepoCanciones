@@ -25,14 +25,14 @@ namespace canciones.Controllers
             return Ok(song);
         }
 
-        //[HttpGet("{id}")]
-        //public async Task<ActionResult<Canciones>> Getcanciones(int id)
-        //{
-        //    var song = await _contexto.canciones.ToListAsync();
-        //    return Ok(song);
-        //}
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Canciones>> Getcanciones(int id)
+        {
+            var song = await this._cancionrepositorio.Getcanciones(id);
+            return Ok(song);
+        }
         //[HttpDelete("{id}")]
-        
+
         //public async Task<ActionResult<Canciones>> Quitarcanciones(int id )
         //{
 
@@ -57,7 +57,7 @@ namespace canciones.Controllers
         //    var acancion =await _contexto.canciones.FindAsync(nombre.Id);
         //    acancion.Titulo=nombre.Titulo;
         //    acancion.Genero=nombre.Genero;
-            
+
         //    return Ok(await _contexto.canciones.ToListAsync());
 
         //}

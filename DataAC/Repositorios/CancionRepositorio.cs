@@ -19,5 +19,11 @@ namespace canciones.Repositorios
             var song = await _contexto.canciones.ToListAsync();
             return song;
         }
+
+        public async Task<Canciones> Getcanciones(int id)
+        {
+            var song = await _contexto.canciones.FirstOrDefaultAsync();
+            return (song);
+        }
     }
 }

@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\controllers\\controladoscanciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\migrations\\20240702180703_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\migrations\\20240702180703_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\repositorios\\cancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|solutionrelative:dataac\\repositorios\\cancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\repositorios\\icancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|solutionrelative:dataac\\repositorios\\icancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\repositorios\\cancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|solutionrelative:dataac\\repositorios\\cancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\entidad\\canciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\canciones\\contexto\\canciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7B5C35-A924-4CB8-BF19-978EA7A9BA66}|canciones\\canciones.csproj|solutionrelative:canciones\\contexto\\canciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\canciones\\dataac\\repositorios\\icancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF20B99-B21E-436C-9DDE-03833891B9D8}|DataAC\\DataAC.csproj|solutionrelative:dataac\\repositorios\\icancionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DataContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "canciones\\Migrations\\DataContextModelSnapshot.cs",
@@ -58,21 +54,7 @@
               "RelativeToolTip": "canciones\\Migrations\\DataContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T16:41:04.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240702180703_inicial.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Migrations\\20240702180703_inicial.Designer.cs",
-              "RelativeDocumentMoniker": "canciones\\Migrations\\20240702180703_inicial.Designer.cs",
-              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Migrations\\20240702180703_inicial.Designer.cs",
-              "RelativeToolTip": "canciones\\Migrations\\20240702180703_inicial.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T16:39:57.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T16:41:04.281Z"
             },
             {
               "$type": "Document",
@@ -84,18 +66,17 @@
               "RelativeToolTip": "DataAC\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T16:33:44.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T16:33:44.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ICancionRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Repositorios\\ICancionRepositorio.cs",
               "RelativeDocumentMoniker": "DataAC\\Repositorios\\ICancionRepositorio.cs",
               "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Repositorios\\ICancionRepositorio.cs",
               "RelativeToolTip": "DataAC\\Repositorios\\ICancionRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T16:25:10.203Z",
               "EditorCaption": ""
@@ -110,25 +91,24 @@
               "RelativeToolTip": "DataAC\\Entidad\\Canciones.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T16:24:34.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T16:24:34.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CancionRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Repositorios\\CancionRepositorio.cs",
               "RelativeDocumentMoniker": "DataAC\\Repositorios\\CancionRepositorio.cs",
               "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\DataAC\\Repositorios\\CancionRepositorio.cs",
               "RelativeToolTip": "DataAC\\Repositorios\\CancionRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAMwAsAAAA3AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T16:22:27.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Program.cs",
               "RelativeDocumentMoniker": "canciones\\Program.cs",
@@ -136,8 +116,7 @@
               "RelativeToolTip": "canciones\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:31:51.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T15:31:51.312Z"
             },
             {
               "$type": "Document",
@@ -149,8 +128,7 @@
               "RelativeToolTip": "canciones\\Contexto\\Canciones.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:15:41.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T15:15:41.229Z"
             },
             {
               "$type": "Document",
@@ -160,7 +138,7 @@
               "RelativeDocumentMoniker": "canciones\\Controllers\\ControladosCanciones.cs",
               "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\canciones\\canciones\\Controllers\\ControladosCanciones.cs",
               "RelativeToolTip": "canciones\\Controllers\\ControladosCanciones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T15:14:28.184Z",
               "EditorCaption": ""
